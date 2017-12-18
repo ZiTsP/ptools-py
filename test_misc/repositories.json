@@ -1,0 +1,212 @@
+{
+    "Bukkit": {
+        "url": "https://github.com/Bukkit/Bukkit"
+    },
+    "JavaHamcrest": {
+        "url": "https://github.com/hamcrest/JavaHamcrest"
+    },
+    "assertj-core": {
+        "url": "https://github.com/joel-costigliola/assertj-core"
+    },
+    "cglib": {
+        "url": "https://github.com/cglib/cglib"
+    },
+    "commons-beanutils": {
+        "url": "https://github.com/apache/commons-beanutils"
+    },
+    "commons-cli": {
+        "url": "https://github.com/apache/commons-cli"
+    },
+    "commons-codec": {
+        "url": "https://github.com/apache/commons-codec"
+    },
+    "commons-collections": {
+        "url": "https://github.com/apache/commons-collections"
+    },
+    "commons-configuration": {
+        "url": "https://github.com/apache/commons-configuration"
+    },
+    "commons-dbcp": {
+        "url": "https://github.com/apache/commons-dbcp"
+    },
+    "commons-fileupload": {
+        "url": "https://github.com/apache/commons-fileupload"
+    },
+    "commons-io": {
+        "url": "https://github.com/apache/commons-io"
+    },
+    "commons-lang": {
+        "url": "https://github.com/apache/commons-lang"
+    },
+    "commons-logging": {
+        "url": "https://github.com/apache/commons-logging"
+    },
+    "dom4j": {
+        "url": "https://github.com/dom4j/dom4j"
+    },
+    "easymock": {
+        "url": "https://github.com/easymock/easymock"
+    },
+    "elasticsearch": {
+        "url": "https://github.com/elastic/elasticsearch"
+    },
+    "findbugs": {
+        "url": "https://github.com/findbugsproject/findbugs"
+    },
+    "groovy": {
+        "url": "https://github.com/apache/groovy"
+    },
+    "gson": {
+        "url": "https://github.com/google/gson"
+    },
+    "guava": {
+        "url": "https://github.com/google/guava"
+    },
+    "guice": {
+        "url": "https://github.com/google/guice"
+    },
+    "h2database": {
+        "url": "https://github.com/h2database/h2database"
+    },
+    "hadoop": {
+        "url": "https://github.com/apache/hadoop"
+    },
+    "hibernate-orm": {
+        "url": "https://github.com/hibernate/hibernate-orm"
+    },
+    "hibernate-validator": {
+        "url": "https://github.com/hibernate/hibernate-validator"
+    },
+    "hsqldb": {
+        "url": "https://github.com/arteam/hsqldb"
+    },
+    "httpcomponents-client": {
+        "url": "https://github.com/apache/httpcomponents-client"
+    },
+    "httpcomponents-core": {
+        "url": "https://github.com/apache/httpcomponents-core"
+    },
+    "jackson-annotations": {
+        "url": "https://github.com/FasterXML/jackson-annotations"
+    },
+    "jackson-core": {
+        "url": "https://github.com/FasterXML/jackson-core"
+    },
+    "jackson-databind": {
+        "url": "https://github.com/FasterXML/jackson-databind"
+    },
+    "javamail": {
+        "url": "https://github.com/javaee/javamail"
+    },
+    "javassist": {
+        "url": "https://github.com/jboss-javassist/javassist"
+    },
+    "javax-inject": {
+        "url": "https://github.com/javax-inject/javax-inject"
+    },
+    "jboss-jsp-api_spec": {
+        "url": "https://github.com/jboss/jboss-jsp-api_spec"
+    },
+    "jboss-servlet-api_spec": {
+        "url": "https://github.com/jboss/jboss-servlet-api_spec"
+    },
+    "jetty.project": {
+        "url": "https://github.com/eclipse/jetty.project"
+    },
+    "joda-time": {
+        "url": "https://github.com/JodaOrg/joda-time"
+    },
+    "json-simple": {
+        "url": "https://github.com/fangyidong/json-simple"
+    },
+    "jsoup": {
+        "url": "https://github.com/jhy/jsoup"
+    },
+    "javaee-jsp-api": {
+        "url": "https://github.com/javaee/javaee-jsp-api"
+    },
+    "jstl-api": {
+        "url": "https://github.com/javaee/jstl-api"
+    },
+    "junit4": {
+        "url": "https://github.com/junit-team/junit4"
+    },
+    "junit5": {
+        "url": "https://github.com/junit-team/junit5"
+    },
+    "log4j": {
+        "url": "https://github.com/apache/log4j"
+    },
+    "logback": {
+        "url": "https://github.com/qos-ch/logback"
+    },
+    "lucenenet": {
+        "url": "https://github.com/apache/lucenenet"
+    },
+    "maven": {
+        "url": "https://github.com/apache/maven"
+    },
+    "mockito": {
+        "url": "https://github.com/mockito/mockito"
+    },
+    "mongo-hadoop": {
+        "url": "https://github.com/mongodb/mongo-hadoop"
+    },
+    "mongo-java-driver": {
+        "url": "https://github.com/mongodb/mongo-java-driver"
+    },
+    "mysql-connector-j": {
+        "url": "https://github.com/mysql/mysql-connector-j"
+    },
+    "netty": {
+        "url": "https://github.com/netty/netty"
+    },
+    "org.aspectj": {
+        "url": "https://github.com/eclipse/org.aspectj"
+    },
+    "plexus-utils": {
+        "url": "https://github.com/codehaus-plexus/plexus-utils"
+    },
+    "powermock": {
+        "url": "https://github.com/powermock/powermock"
+    },
+    "protobuf": {
+        "url": "https://github.com/google/protobuf"
+    },
+    "servlet-spec": {
+        "url": "https://github.com/javaee/servlet-spec"
+    },
+    "slf4j": {
+        "url": "https://github.com/qos-ch/slf4j"
+    },
+    "spring-boot": {
+        "url": "https://github.com/spring-projects/spring-boot"
+    },
+    "spring-framework": {
+        "url": "https://github.com/spring-projects/spring-framework"
+    },
+    "spring-security": {
+        "url": "https://github.com/spring-projects/spring-security"
+    },
+    "testng": {
+        "url": "https://github.com/cbeust/testng"
+    },
+    "velocity-engine": {
+        "url": "https://github.com/apache/velocity-engine"
+    },
+    "velocity-tools": {
+        "url": "https://github.com/apache/velocity-tools"
+    },
+    "xerces": {
+        "url": "https://github.com/jboss/xerces"
+    },
+    "xerces2-j": {
+        "url": "https://github.com/apache/xerces2-j"
+    },
+    "xstream": {
+        "url": "https://github.com/x-stream/xstream"
+    },
+    "zookeeper": {
+        "url": "https://github.com/apache/zookeeper"
+    }
+}
